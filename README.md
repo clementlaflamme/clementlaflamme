@@ -25,7 +25,7 @@ Je termine actuellement mon parcours en **Développement d'applications** au **C
 
 ###  Fun Facts
 
-- Un bon café chaque matin sur mon bureau pour bien lancer la journée
+- J'ai un café sur mon bureau chaque matin pour bien commencer la journée
 -  J'ai deux chiens
 -  Grand fan de la saga **Star Wars**
-- **Passions :** Gaming, gym, lecture, cuisine et concevoir/bâtir des projets manuels comme logiciels
+- **Loisirs :** Gaming, gym, lecture, cuisine et concevoir/bâtir des projets manuels comme logiciels
