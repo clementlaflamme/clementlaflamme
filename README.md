@@ -14,12 +14,13 @@ Je termine actuellement mon parcours en **Développement d'applications** au **C
 | **Backend & ORM** | Node.js, Express, Java / JavaFX, Rust, Prisma |
 | **Bases de données** | PostgreSQL, MySQL, MongoDB |
 | **DevOps & Environnement** | Docker, Git / GitHub |
+|**Intelligence artificielle**| Claude Code, Copilot |
 
 ---
 
-### Projet coup de cœur
+### Projet personnel (en développement)
 
-- **[Pokédex App](https://github.com/clementlaflamme/pokedex_app)** : Une application complète permettant d'explorer l'univers Pokémon avec une interface soignée, des requêtes optimisées et une architecture modulaire.
+- **[Ratey](https://github.com/clementlaflamme/ratey)** : Une application de journal de jeux vidéo qui permet de rechercher, noter et retrouver les jeux vidéo qui ont marqué votre parcours.
 
 ---
 
